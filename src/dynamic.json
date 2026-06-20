@@ -6,7 +6,7 @@
     },
 
     {
-        "parameter_relative_url" : "adventureworks-azure-end-to-end-project/blob/main/data/AdventureWorks_Customers.csv",
+        "parameter_relative_url" : "rsghosh28/adventureworks-azure-end-to-end-project/blob/main/data/AdventureWorks_Customers.csv",
         "parameter_sink_folder" : "customers",
         "parameter_sink_file" : "AdventureWorks_Customers.csv"
     },
@@ -42,7 +42,7 @@
     },
 
     {
-        "parameter_relative_url" : "adventureworks-azure-end-to-end-project/refs/heads/main/data/AdventureWorks_Sales_2016.csv",
+        "parameter_relative_url" : "rsghosh28/adventureworks-azure-end-to-end-project/refs/heads/main/data/AdventureWorks_Sales_2016.csv",
         "parameter_sink_folder" : "sales_2016",
         "parameter_sink_file" : "AdventureWorks_Sales_2016.csv"
     },
